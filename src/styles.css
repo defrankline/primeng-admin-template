@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.p-panelmenu .p-panelmenu-header > a .p-panelmenu-icon {
+    margin-right: 0.5rem;
+    order: 1;
+    margin-left: auto;
+}
+
+.p-splitbutton {
+
+    margin-right: 0.5rem;
+    order: 1;
+    margin-left: auto;
+}
+
+.fx-spacer {
+    flex: 1 1 auto;
+}
